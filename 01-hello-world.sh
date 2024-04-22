@@ -1,1 +1,3 @@
-This is a sample script
+#!/bin/bash
+
+echo "This is Sandeep Kadapa"
